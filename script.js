@@ -29,3 +29,9 @@ accordions.forEach(button => {
         }
     });
 });
+const form = document.querySelector("form");
+  form.addEventListener("submit", function(e) {
+    setTimeout(() => {
+      alert("Thank you! Your message has been sent.");
+    }, 500);
+  });
