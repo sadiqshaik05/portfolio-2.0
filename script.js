@@ -11,7 +11,7 @@ var SS = new Typed("#SS-name", {
   loop: true
 });
 var SK = new Typed("#SK-name", {
-  strings: ["I AM FULLSTACK WEB DEVELOPER","FRONTEND DESIGNER","PYTHON PROGRAMMER"],
+  strings: ["I AM FULLSTACK WEB DEVELOPER","FRONTEND DESIGNER","PYTHON PROGRAMMER","Data Analyst"],
   typeSpeed: 100,
   backSpeed: 50,
   loop: true
